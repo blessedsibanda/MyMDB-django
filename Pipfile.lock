@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "9c3709be63c80c1579e4606e9230b1b647ff4cf9325f01861aab73e9f6453d5f"
+            "sha256": "f64a905d3b062064b323fe453752ad2f8c9da31f78e0f7dbb78a7d75b32f4eb8"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -51,6 +51,22 @@
             ],
             "index": "pypi",
             "version": "==3.0.8"
+        },
+        "django-debug-toolbar": {
+            "hashes": [
+                "sha256:eabbefe89881bbe4ca7c980ff102e3c35c8e8ad6eb725041f538988f2f39a943",
+                "sha256:ff94725e7aae74b133d0599b9bf89bd4eb8f5d2c964106e61d11750228c8774c"
+            ],
+            "index": "pypi",
+            "version": "==2.2"
+        },
+        "django-extensions": {
+            "hashes": [
+                "sha256:2b96bb937329b4038809d0fa79c55f6c1e941bce5057ca9ff5f3207aadffcbb9",
+                "sha256:c4e8cff39a26bfb72438cd52ab37d760a2aa146b715b6cd27fa8b862ac29fdc5"
+            ],
+            "index": "pypi",
+            "version": "==3.0.2"
         },
         "ipython": {
             "hashes": [
@@ -159,6 +175,13 @@
                 "sha256:ff7a40b4860b727ab48fad6360eb351cc1b33cbf9b15a0f689ca5353e9463324"
             ],
             "version": "==2.6.1"
+        },
+        "pygraphviz": {
+            "hashes": [
+                "sha256:50a829a305dc5a0fd1f9590748b19fece756093b581ac91e00c2c27c651d319d"
+            ],
+            "index": "pypi",
+            "version": "==1.5"
         },
         "pytz": {
             "hashes": [

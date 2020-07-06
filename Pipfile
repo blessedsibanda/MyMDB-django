@@ -10,6 +10,9 @@ django = "*"
 psycopg2-binary = "*"
 ipython = "*"
 autopep8 = "*"
+django-extensions = "*"
+pygraphviz = "*"
+django-debug-toolbar = "*"
 
 [requires]
 python_version = "3.8"
